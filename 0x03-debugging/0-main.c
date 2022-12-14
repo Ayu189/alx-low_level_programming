@@ -1,6 +1,5 @@
 include "main.h"
 
-
 /**
  * main - Test function for positive or negative
  *
@@ -11,7 +10,6 @@ include "main.h"
 int main(void)
 
 {
-
 	int i;
 
 	i = 0;
